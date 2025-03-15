@@ -1,0 +1,12 @@
+OSI Reference Model – A blueprint that shows how different systems communicate over a network, broken into 7 layers:
+
+
+Layers :
+	1. Physical – Sends raw bits (1s and 0s) over cables, Wi-Fi, etc.
+	2. Data Link – Groups bits into frames and fixes errors.
+	3. Network – Finds the best path for data using IP addresses.
+	4. Transport – Ensures data is complete and in order (uses TCP/UDP).
+	5. Session – Opens, maintains, and closes communication sessions.
+	6. Presentation – Translates data into a readable format (e.g., encryption, compression).
+	7. Application – Allows you to use the data (e.g., web browsers, email).
+	

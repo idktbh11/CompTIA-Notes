@@ -1,0 +1,3 @@
+Client – A device or program that requests services or data
+Server – A device or program that provides services or data for the client
+Reference Model – A blueprint that shows how different parts of a network should work together (like instructions for how phones and websites communicate).

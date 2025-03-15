@@ -1,0 +1,7 @@
+TCP/IP Protocol Stack - A simplified version of the OSI model used in real-world networking.  It has 4 layers.
+
+Layers :
+	1. Link Layer – Handles physical connections and data transfer over hardware (like Ethernet, Wi-Fi).
+	2. Internet Layer – Finds the best path for data using IP addresses (like the OSI Network layer).
+	3. Transport Layer – Ensures data arrives correctly and in order using TCP (reliable) or UDP (faster but less reliable).
+	4. Application Layer – Handles user-facing services (like web browsers, email).
