@@ -1,0 +1,16 @@
+Universal Serial Bus (USB) - A small plug-and-port system that connects devices like computers, phones, and storage drives to transfer data and power.
+
+
+Audio Connections(to a mobile device):
+					3.5mm Audio Jack – For headphones, speakers, and microphones (if available).
+	
+					Lightning (Apple Devices) – For audio accessories on iPhones and iPads.
+
+					Bluetooth – Wireless connection for headphones, speakers, and microphones.
+
+Peripherals - Devices that connect to a computer to enhance its functionality. They include input devices (like keyboards and mice), output devices (like monitors and printers), and storage devices (like external hard drives).
+
+Docking Station/Port Replicator - Allows you to expand a devices connectivity, but it allows you to connect many ports to a device instead of just USB ports(like a ethernet port, display port, audio port, power port, etc.). Similar to a USB Hub. You can also lock the docking station.
+ 
+Hotspot - A Wi-Fi Access point that allows a second device to get access to the internet(Most hotspots used by Phone). This can be done by connecting your phone to the device physically(via cable) or via Wifi.
+
