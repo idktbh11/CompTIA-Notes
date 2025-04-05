@@ -1,0 +1,14 @@
+Network Interface Card - A small piece of hardware that lets a computer connect to a network, like the internet. It does that by sending and receiving data as electrical signals (or wireless signals) between the computer and the network.
+
+Router - A device that can move data between different networks. It does this by checking the IP Address on the data, figuring out the best path to reach that address, and then sending the data until it reaches the right network and device.
+
+Switch - A device that connects multiple devices in a network and helps them talk to each other by sending data to where it needs to go(using interfaces). It does that by looking at each device’s MAC Address and forwarding data only to the device it's meant for. It does this because instead of sending every message to all connected devices (which can cause clutter), it figures out exactly which device the message is meant for using that MAC address and delivers it only there to that device.
+
+Routers and Switches make forwarding decisions based on different information they are looking at.
+
+Interfaces - The points where a device connects to a network. It's just the "connection point" for communication.
+
+Decision Layers on the TCP/IP suite :
+		 Layer 1[Physical]: Hubs - Similar to a switch, but it sends all the data to every connected device instead of the one it's meant for. Very outdated and barely used anymore
+		 Layer 2[Data Link]: Switches
+		 Layer 3[Network]: Routers
