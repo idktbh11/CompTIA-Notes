@@ -1,0 +1,23 @@
+IP address - A number that identifies a device on a network.[Logically. MAC address is physically]
+Two Main Parts of an IP address:
+				Network Address - Identifies the network the device is on.
+				Host Address - Identifies the device on that network.
+
+IP Router - A device that connects different networks and directs data between them using IP addresses.
+
+
+------------------------------------------------------------------------------------------------ ]
+IPv4 - The older but most common version of IP. Can make IP addresses in the format of 0.0.0.0   | The left is the network part, the right is the host part
+------------------------------------------------------------------------------------------------- \ These 2 both have a host and network address.
+IPv6 - The newer and secure version of IP. Has a more complicated format. 			 |  
+------------------------------------------------------------------------------------------------ ]
+SOHO network - A basic network for small businesses or home offices, with just a few devices.		 
+
+What it usually includes:
+			A router for internet access
+
+			Wi-Fi for wireless devices
+
+			A few computers, printers, or phones
+
+			Basic security like firewalls and passwords

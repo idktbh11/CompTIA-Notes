@@ -1,0 +1,16 @@
+PAN(Personal Area Network) - A small network for connecting devices around one person
+LAN(Local Area Network) - A network that connects devices in a small area.
+WLAN(Wireless LAN) - LAN that uses Wi-Fi instead of cables to connect devices. [made when a LAN includes an access point]
+VLAN(Virtual Local Area Network) - A network on a LAN that are grouped together to act like they're on the same network.
+SAN(Storage Area Network) - A network that delivers storage over a network.
+WAN(Wide Area Network) - Connects devices over large distances.
+MAN(Metropolitan Area Network) - A network that connects computers and devices across a large area, like a city. Bigger than a LAN but smaller than the Internet.
+
+NFC(Near Field Communication) - A technology that allows devices to communicate wirelessly over short distances.
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+Wi-Fi is actually referring to wireless networking that's based on a set of standards by an IEEE group called 802.11.
+In the wireless space, there's a whole bunch of set of rules or protocols in the 802.11 space that allows 2 devices to communicate with each other.
+
+Access Point Options:   Autonomous Mode/Thick/Full - Mode that makes the access point do all the work itself when you deploy it.
+			Lightweight Mode - Mode that just sends signals back and forth between devices. Let's a Controller do all the work
+			
+
+
+
+
+Controller -  A device/software that manages and controls multiple access points.
+Vendor - A company that makes and sells networking equipment like routers, access points, and controllers.
+
+802.11 standards:  802.11n(2.4/5 Hz, 72 to 600 bits), 802.11ac(5 Hz, 433 to 6933 bits), 802.11ax(2.4/5/6 Hz, 600 to 9608 bits), 802.11be(2.4/5/6 Hz, 40000 bits)
+
+
+Hertz - Measures Frequency - How many times something happens in one second.
+
+Bits -  How much information/data is being sent or received over the network.
+
+WPA - A Wi-Fi security protocol that protects wireless networks
+
+Versions:
+	WPA1(not very strong by today's standards)
+	WPA2(Uses stronger encryption, AES)
+	WPA3(Newest and most secure version. It adds even better protection against hacking, especially on public Wi-Fi.)
