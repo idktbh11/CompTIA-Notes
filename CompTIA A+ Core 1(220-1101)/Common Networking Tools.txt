@@ -1,0 +1,12 @@
+Ethernet Cable - A wire that connects computers or devices to a network so they can talk to each other.
+RJ-45 Keystone Jack - A small connector where Ethernet cables plug in to connect to a network. 
+RJ-45 Plug - The clear plastic end of an Ethernet cable that clicks into network ports.
+Patch Panel - A board with ports that connects and organizes network cables.
+Wi-Fi Analyzer - A tool that scans and measures the strength, speed, and channels of Wi-Fi networks to help troubleshoot or improve network performance.
+
+Tools for testing and troubleshooting a network :
+						Cable Tester - A tool that checks if a network cable works properly.
+						Network tap - A device that copies data from a network so it can be monitored.
+						Toner - A tool that sends a signal through a wire to help trace it.
+						Probe - A tool that detects the signal from a toner to find the right cable.
+						Loopback plug - A small device that sends signals back into a port to test it.

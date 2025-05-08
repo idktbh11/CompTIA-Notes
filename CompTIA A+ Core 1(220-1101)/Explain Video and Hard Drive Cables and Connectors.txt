@@ -1,0 +1,14 @@
+VGA(Video Graphics Array) - A type of connector used to send videos from a computer to a monitor or projector.[Old, but still common. Blue]
+DVI(Digital Visual Interface) - A connector that sends video from a computer to a monitor, often with better quality than VGA.
+DisplayPort - A newer connector that sends high-quality video and sound from a computer to a monitor or TV. [thunderbolt]
+HDMI(High-Definition Multimedia Interface) - A connector that sends high-quality videos and sound from a device like a computer, game console —— all through one cable.
+ATA(Advanced Technology Attachment) - A standard for connecting storage devices like hard drives and CD/DVD drives to a computer.
+
+HDMI Versions :
+		V1.4 - 10.2 Gbps, 48 bits px, 36.86 Mbps audio
+		V2.0 - 6.2 Gbps, 48 bits px, 48.152 Mbps audio
+
+
+PATA(Parallel Advanced Technology Attachment) - A connector used to attach hard drives to a computer’s motherboard.[really old, like 10 years old]
+SATA(Serial Advanced Technology Attachment) - A connector used to attach hard drives and SSDs to a computer’s motherboard [common, up to 16 GBps]
+SCSI(Small Computer Systems Interface) - A standard used to connect and transfer data between computers and devices like hard drives, scanners, and printers.[can hold up to 8-16 devices)

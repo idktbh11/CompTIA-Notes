@@ -1,0 +1,21 @@
+MHz(Megahertz) - Frequency that measures how fast a computer is.
+Mbps(Megabits per second) - Bandwidth that measures internet speeds.
+Gbps(Gigabits per second) - Bandwidth that measures faster data rates, like in high speed internet connections or devices.
+Modems - Devices that connect your home or office to the internet by converting signals from your internet provider into a form your devices can use.
+
+Note: 1 Gbps = 1,000 Mbps.
+
+
+F-connector - A screw-on metal plug used to connect coax cables to devices like TVs, cable boxes, or modems.
+Cables :
+	Plenum-Rated Cables - Cables that are more resistant to fire and emits less toxic smoke from a fire. [Usually above sprinkler systems.]
+	POTS(Plain Old Telephone Service) - The traditional, analog phone system that uses copper wires to carry voice calls. [Has 4 wires(for 2 phones), uses an RJ-11 Connector]
+	Coax Cables - Cables used to send TV, internet, or other data signals. [Single copper wire, Plenum-rated, plastic jack
+	Fiber Optic Cables - Cables that sends data using light through thin glass or plastic fibers, making it much faster and better over long distances than regular metal cables.
+
+
+
+
+
+
+

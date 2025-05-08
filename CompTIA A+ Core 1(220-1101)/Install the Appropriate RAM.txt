@@ -1,0 +1,22 @@
+RAM(Random Access Memory) - A type of computer memory that stores data temporarily so the computer can access it quickly while it's working.[must be charged constantly electrically]
+
+Memory Modules :
+		SIMM(Single Inline Memory Module) - An old type of memory stick that was used in computers to add RAM.[32 bit. old, was replaced by DIMM)
+		DIMM(Dual-Inline Memory Module) - A type of memory stick used in modern computers to add RAM.[64 bits]
+		SODIMM(Small outline DIMM) - Just a smaller version of DIMM[Used in laptops, printers, etc.]
+
+DDR(Double Data Rate) - A type of fast RAM that transfers data twice per clock cycle
+ECC(Error Correcting Code) - A type of RAM that can detect and fix small data errors, often used in servers for better reliability.
+Memory Chips - Tiny parts that store data and instructions for a computer or other device.
+
+Common Memory Performance :
+| Chip Type    | Effective Clock | PC Name   | Data Rate   | Voltage | Pins | Use                             |
+| ------------ | --------------- | --------- | ----------- | ------- | ---- | ------------------------------- |
+| DDR (DDR200) | 200 MHz         | PC-1600   | 1,600 MBps  | —       | —    | Very old desktops, obsolete now |
+| DDR2-400     | 400 MHz         | PC2-3200  | 3,200 MBps  | —       | —    | Older desktops/laptops          |
+| DDR3-1600    | 1600 MHz        | PC3-12800 | 12,800 MBps | 1.5 V   | 240  | Common in older systems         |
+| DDR4-3200    | 3200 MHz        | PC4-25600 | 25,600 MBps | 1.2 V   | 288  | Widely used in modern PCs       |
+| DDR5-6400    | 6400 MHz        | PC5-51200 | 51,200 MBps | 1.1 V   | 288  | Latest high-performance systems |
+Voltage: The amount of electrical power the memory chip uses.
+Effective Clock Speed: How fast the memory can send and receive data.
+Pins: The tiny metal connectors that plug the memory chip into the computer.

@@ -1,0 +1,44 @@
+Network Connectivity :
+			Cellular Network
+			Wi-Fi 
+			Bluetooth
+			NFC(Near Field Communication)
+
+Location Services :
+		    Find Device
+		    Map-Directions
+
+
+Location Services work in many ways :
+					1. Through Satellites/GPS
+					2. Through Wi-Fi
+					3. Through Cell Towers
+					4. Through Satellites
+					5. Through Bluetooth
+					6. Through NFC
+					7. Through IP Addresses
+Why they work this way:
+	Maps/Directions
+	Traffic
+	Suggestions
+	Alerts
+	Payments
+	Emergency Services
+
+
+
+
+					
+
+
+PRL(Preferred Roaming List) - A list based on the frequency bands used to Roam. 
+
+Roaming - When your phone connects to a network outside your carrier’s coverage area. 
+
+
+For Bluetooth to work:
+			• Needs to be enabled
+			• Pair Device 
+				• Find device to pair with
+				• Use PIN to pair
+			

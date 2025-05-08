@@ -1,0 +1,19 @@
+USB(Universal Serial Bus) - A small plug and port used to connect devices like phones, keyboards, or flash drives to a computer.
+USB Versions : 
+		2.0(480Mbps[high-speed]) white/black
+		3.0(5Gbps[superspeed]) blue
+		3.1(10 Gbps[superspeed+]) teal
+		3.2(10/20 Gbps[superspeed+]) teal
+		4(40Gbps) USB-C
+
+Lightning Connector - A small plug made by Apple to connect iPhones, iPads, and accessories. (USB 3.0 Speed)
+Thunderbolt Connector - A high-speed plug used mainly on computers to connect things like monitors and hard drives
+
+Thunderbolt Versions :
+			1(10 Gbps)[Mini DisplayPort]
+			2(20 Gbps)[Mini DisplayPort/DisplayPort]
+			3(40 Gbps)[USB-C]
+			4(40 Gbps)[USB-C]
+
+Punchdown Block - A block used to connect and organize network wires by pushing them into slots with a special tool.
+Molex - A type of power connector used inside computers to provide electricity to parts like hard drives and fans. 

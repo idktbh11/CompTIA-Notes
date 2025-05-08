@@ -1,0 +1,36 @@
+Client - A device on the network that asks for data.
+Server - A device on the network that sends data to the client.
+DNS -  A protocol that's used when a computer needs to find out the Domain Name behind the actual IP Address. (asks a DNS server for the IP address)
+DNS(Reverse) -  A protocol that's used when a computer needs to find out the actual (IP)address behind the name of a domain.
+
+Protocols - A set of rules that all devices comply/agree/follow to have success in communication with the network. Behind the scenes, there's a lot of stuff happening that allows devices to communicate to each other, hence the name Protocols.
+
+Telnet - A network protocol that allows a user on one computer to log into another computer that is part of the same network.
+
+SSH -  A network protocol that provides a secure way to access and manage remote computers and servers over an unsecured network
+
+Frameworks/Models - Recipe for Clients + Server to talk or Suite of protocols or rules that all devices need to follow to communicate with each other. We use these to help represent each of those individual components
+
+OSI Model -  A model that regards all the stuff that needs to happen in order for all clients and server to communicate with each other over the network.
+
+TCP/IP - A suite of protocols that are working together to allow clients and servers to talk to each other. It's basically the representation of the functions that need to happen on the networking devices as they communicate over an IP Network.
+
+Layers :
+	1. Link Layer – Handles physical connections and data transfer over hardware (like Ethernet, Wi-Fi).
+	2. Internet Layer – Finds the best path for data using IP addresses (like the OSI Network layer). [IP]
+	3. Transport Layer – Ensures data arrives correctly and in order using TCP (reliable) or UDP (faster but less reliable). [TCP(makes sure the connection is working and function all the time and confirms it, has a kind of long process though)] [UDP(does make sure the connection is working, but doesn't confirm it, not that reliable, but its faster]
+	4. Application Layer – Handles user-facing services (like web browsers, email). (It just represents network services that can be available over a network)
+
+A browsers determines if its HTTP or HTTPS on how the website is set up.
+
+
+The main purpose of devices on the internet is to Communicate/Send and Receive Data from each other.
+
+
+
+Well Known Port Numbers from the Application Layer :
+						Port 80: HTTP [TCP]
+						Port 443: HTTPS [TCP] (also acts like a DNS server)
+						Port 53: DNS [UDP]
+						Port 23: Telnet [TCP]
+						Port 22: SSH [TCP]
